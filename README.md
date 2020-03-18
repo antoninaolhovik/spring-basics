@@ -1,2 +1,2 @@
 # spring-basics
-spring basics training project
+project that is created during learning core Spring Framework functionality.
